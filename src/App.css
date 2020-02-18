@@ -1,3 +1,5 @@
+
+
 .App {
   text-align: center;
 }
@@ -23,6 +25,23 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+#centeredmenu {
+  float:left;
+  width:100%;
+  background:#fff;
+  border-bottom:4px solid #000;
+  overflow:hidden;
+  position:relative;
+}
+
+/* h1 {
+  font-size: 75;
+  color: rgb(0, 0, 0);
+  align-content: center;
+  padding: 10px;
+  background-color: purple;
+} */
 
 .App-link {
   color: #61dafb;
